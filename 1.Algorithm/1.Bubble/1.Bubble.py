@@ -8,6 +8,7 @@ class Solution(object):
 
     def bubble(self):
 
+
         nums = list(eval(input("请输入需要排序的数据,逗号隔开,回车结束:")))
 
         len_nums = len(nums)
