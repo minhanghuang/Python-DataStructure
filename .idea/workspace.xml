@@ -46,8 +46,8 @@
       <file leaf-file-name="1.merge-two-sorted-lists.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2.Leetcode/21. 合并两个有序链表/1.merge-two-sorted-lists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <state relative-caret-position="81">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -696,8 +696,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2.Leetcode/21. 合并两个有序链表/1.merge-two-sorted-lists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
