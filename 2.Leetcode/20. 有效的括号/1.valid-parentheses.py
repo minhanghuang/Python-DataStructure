@@ -1,6 +1,8 @@
 """
 https://leetcode-cn.com/problems/valid-parentheses/
 """
+
+
 list_parentheses = [")", "}", "]"]
 dict_parentheses = {
     "(": ")",
