@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5efcecb-1fe0-4947-b2cf-d69155ece15d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.Algorithm/2.查找/1.顺序查找/1.Sequential-Search.py" afterPath="$PROJECT_DIR$/1.Algorithm/2.查找/1.顺序查找/1.Sequential-Search.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/text.py" afterPath="$PROJECT_DIR$/text.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,6 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python-DataStructure$text.coverage" NAME="text Coverage Results" MODIFIED="1557982819606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DataStructure $3_Insertion.coverage" NAME="3.Insertion Coverage Results" MODIFIED="1556955060201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python-DataStructure$1_implement_strstr.coverage" NAME="1.implement-strstr Coverage Results" MODIFIED="1557568681543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Leetcode/28. 实现strStr()" />
     <SUITE FILE_PATH="coverage/DataStructure $1_Bubble.coverage" NAME="1.Bubble Coverage Results" MODIFIED="1556946443974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -25,21 +26,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1.implement-strstr.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.Leetcode/28. 实现strStr()/1.implement-strstr.py">
+      <file leaf-file-name="text.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/text.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1.Sequential-Search.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1.Algorithm/2.查找/1.顺序查找/1.Sequential-Search.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <state relative-caret-position="297">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -72,7 +63,6 @@
         <option value="$PROJECT_DIR$/1.Bubble/1.Bubble.py" />
         <option value="$PROJECT_DIR$/2.Leetcode/1.两数之和/1.twoSum.py" />
         <option value="$PROJECT_DIR$/2.Leetcode/2. 两数相加/1.addTwoNumbers.py" />
-        <option value="$PROJECT_DIR$/text.py" />
         <option value="$PROJECT_DIR$/2.Leetcode/13. 罗马数字转整数/1.roman-to-integer.py" />
         <option value="$PROJECT_DIR$/2.Leetcode/7. 整数反转/1.reverse-integer.py" />
         <option value="$PROJECT_DIR$/2.Leetcode/14. 最长公共前缀/1.longest-common-prefix.py" />
@@ -83,6 +73,7 @@
         <option value="$PROJECT_DIR$/2.Leetcode/27. 移除元素/1.remove-element.py" />
         <option value="$PROJECT_DIR$/2.Leetcode/28. 实现strStr()/1.implement-strstr.py" />
         <option value="$PROJECT_DIR$/1.Algorithm/2.查找/1.顺序查找/1.Sequential-Search.py" />
+        <option value="$PROJECT_DIR$/text.py" />
       </list>
     </option>
   </component>
@@ -183,7 +174,7 @@
       <recent name="$PROJECT_DIR$/1.Bubble" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1.Sequential-Search">
+  <component name="RunManager" selected="Python.text">
     <configuration default="false" name="2.Selection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -497,9 +488,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.1.Sequential-Search" />
-        <item index="1" class="java.lang.String" itemvalue="Python.1.implement-strstr" />
-        <item index="2" class="java.lang.String" itemvalue="Python.text" />
+        <item index="0" class="java.lang.String" itemvalue="Python.text" />
+        <item index="1" class="java.lang.String" itemvalue="Python.1.Sequential-Search" />
+        <item index="2" class="java.lang.String" itemvalue="Python.1.implement-strstr" />
         <item index="3" class="java.lang.String" itemvalue="Python.3.Insertion" />
         <item index="4" class="java.lang.String" itemvalue="Python.2.Selection" />
       </list>
@@ -522,7 +513,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2746781" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20386267" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -660,7 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/-502983299/builtins.py" />
     <entry file="file://$PROJECT_DIR$/2.Leetcode/1.两数之和/1.twoSum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -679,13 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="50" lean-forward="false" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -748,6 +731,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1.Algorithm/2.查找/1.顺序查找/1.Sequential-Search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2.Leetcode/28. 实现strStr()/1.implement-strstr.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -756,10 +747,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.Algorithm/2.查找/1.顺序查找/1.Sequential-Search.py">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/-502983299/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="170">
+          <caret line="529" column="4" lean-forward="false" selection-start-line="529" selection-start-column="4" selection-end-line="529" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
