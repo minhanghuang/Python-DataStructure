@@ -1,6 +1,5 @@
 
 
-
 def fib(max_val):
 
     a, b, n = 0, 1, max_val
@@ -9,6 +8,7 @@ def fib(max_val):
 
         print(a)
         a, b = b, a+b
+        n -= 1
 
     return None
 
