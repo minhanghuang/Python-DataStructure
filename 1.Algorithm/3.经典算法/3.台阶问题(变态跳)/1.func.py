@@ -8,6 +8,7 @@ def jump(n):
     while n<=2:
         return n
 
-    return jump(n-1)*2
+    return 2**(n-1)
+    # return jump(n-1)*2
 
 print(jump(5))
