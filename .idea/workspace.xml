@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5efcecb-1fe0-4947-b2cf-d69155ece15d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2.Leetcode/1.两数之和/1.twoSum.py" afterPath="$PROJECT_DIR$/2.Leetcode/1.两数之和/1.twoSum.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2.Leetcode/20. 有效的括号/1.valid-parentheses.py" afterPath="$PROJECT_DIR$/2.Leetcode/20. 有效的括号/1.valid-parentheses.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2.Leetcode/7. 整数反转/1.reverse-integer.py" afterPath="$PROJECT_DIR$/2.Leetcode/7. 整数反转/1.reverse-integer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/text.py" afterPath="$PROJECT_DIR$/text.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2.Leetcode/21. 合并两个有序链表/1.merge-two-sorted-lists.py" afterPath="$PROJECT_DIR$/2.Leetcode/21. 合并两个有序链表/1.merge-two-sorted-lists.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,11 +41,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.valid-parentheses.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1.valid-parentheses.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2.Leetcode/20. 有效的括号/1.valid-parentheses.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="295">
               <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.merge-two-sorted-lists.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2.Leetcode/21. 合并两个有序链表/1.merge-two-sorted-lists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -92,7 +99,6 @@
         <option value="$PROJECT_DIR$/2.Leetcode/2. 两数相加/1.addTwoNumbers.py" />
         <option value="$PROJECT_DIR$/2.Leetcode/13. 罗马数字转整数/1.roman-to-integer.py" />
         <option value="$PROJECT_DIR$/2.Leetcode/14. 最长公共前缀/1.longest-common-prefix.py" />
-        <option value="$PROJECT_DIR$/2.Leetcode/21. 合并两个有序链表/1.merge-two-sorted-lists.py" />
         <option value="$PROJECT_DIR$/2.Leetcode/9. 回文数/1.palindrome-number.py" />
         <option value="$PROJECT_DIR$/2.Leetcode/26. 删除排序数组中的重复项/1.remove-duplicates-from-sorted-array.py" />
         <option value="$PROJECT_DIR$/2.Leetcode/27. 移除元素/1.remove-element.py" />
@@ -108,6 +114,7 @@
         <option value="$PROJECT_DIR$/2.Leetcode/7. 整数反转/1.reverse-integer.py" />
         <option value="$PROJECT_DIR$/text.py" />
         <option value="$PROJECT_DIR$/2.Leetcode/20. 有效的括号/1.valid-parentheses.py" />
+        <option value="$PROJECT_DIR$/2.Leetcode/21. 合并两个有序链表/1.merge-two-sorted-lists.py" />
       </list>
     </option>
   </component>
@@ -182,6 +189,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="7. 整数反转" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python-DataStructure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python-DataStructure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2.Leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="21. 合并两个有序链表" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -715,13 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.Leetcode/21. 合并两个有序链表/1.merge-two-sorted-lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" column="43" lean-forward="false" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.Leetcode/9. 回文数/1.palindrome-number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -868,6 +886,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
           <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Leetcode/21. 合并两个有序链表/1.merge-two-sorted-lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
           <folding />
         </state>
       </provider>
