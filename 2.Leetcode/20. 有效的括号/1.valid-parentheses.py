@@ -3,32 +3,31 @@ https://leetcode-cn.com/problems/valid-parentheses/
 """
 
 
-list_parentheses = [")", "}", "]"]
-dict_parentheses = {
-    "(": ")",
-    "{": "}",
-    "[": "]"
-}
-
-
 class Solution:
-    def isValid(self, s: str) -> bool:
-        print(s)
+    def __init__(self):
 
-        list_stack = []
+        self.dict_val = {
+            "(": ")",
+            "[": "]",
+            "{": "}",
+        }
+
+    def isValid(self, s: str) -> bool:
+
+        stack = []
+
         for foo in s:
 
-            if foo not in list_parentheses:
-                list_stack.append(foo)
+            if foo in self.dict_val:
 
+                stack.append(foo)
             else:
                 try:
-                    temp = list_stack.pop()
-                    if dict_parentheses[temp] != foo:
-                        return False
+                    x = stack.pop()
                 except:
                     return False
-        if list_stack:
+                if self.dict_val[x] != foo:
+                    return False
+        if stack:
             return False
-
         return True

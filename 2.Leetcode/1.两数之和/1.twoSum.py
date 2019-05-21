@@ -1,26 +1,17 @@
 class Solution:
     def twoSum(self, nums, target):
-        """
-        :param nums: List[int]
-        :param nums: int
-        :return: List[int]
-        """
 
         for num in nums:
 
             other = target - num
 
             if other in nums:
+                nums_copy = nums.copy()
+                nums_copy.remove(num)
+                if other in nums_copy:
+                    return [nums.index(num), nums_copy.index(other) + 1]
 
-                if nums.index(other) != nums.index(num):
-
-                    return sorted([nums.index(other), nums.index(num)])
-
-                else:
-                    if nums.count(num) == 2:
-                        num_index = nums.index(num)
-                        nums[num_index] = 'x'
-                        return sorted([num_index, nums.index(num)])
+        return []
 
 
 
