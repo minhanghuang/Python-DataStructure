@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5efcecb-1fe0-4947-b2cf-d69155ece15d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素/1.没有时空复杂度要求.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素/2.有序列表空间复杂度限制.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素/3.无序列表空间度复杂度限制.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/text.py" afterPath="$PROJECT_DIR$/text.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素/2.有序列表空间复杂度限制.py" afterPath="$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素/2.有序列表空间复杂度限制.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2.Leetcode/26. 删除排序数组中的重复项/1.remove-duplicates-from-sorted-array.py" afterPath="$PROJECT_DIR$/2.Leetcode/26. 删除排序数组中的重复项/1.remove-duplicates-from-sorted-array.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,14 +19,14 @@
     <SUITE FILE_PATH="coverage/DataStructure $3_Insertion.coverage" NAME="3.Insertion Coverage Results" MODIFIED="1556955060201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python-DataStructure$1_.coverage" NAME="1.没有时空复杂度要求 Coverage Results" MODIFIED="1558590257926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素" />
     <SUITE FILE_PATH="coverage/Python-DataStructure$1_implement_strstr.coverage" NAME="1.implement-strstr Coverage Results" MODIFIED="1557568681543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Leetcode/28. 实现strStr()" />
-    <SUITE FILE_PATH="coverage/Python-DataStructure$2_.coverage" NAME="2.有序列表空间复杂度限制 Coverage Results" MODIFIED="1558591377213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素" />
+    <SUITE FILE_PATH="coverage/Python-DataStructure$2_.coverage" NAME="2.有序列表空间复杂度限制 Coverage Results" MODIFIED="1558592601460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素" />
     <SUITE FILE_PATH="coverage/DataStructure $1_Bubble.coverage" NAME="1.Bubble Coverage Results" MODIFIED="1556946443974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DataStructure $2_Selection.coverage" NAME="2.Selection Coverage Results" MODIFIED="1556952251001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python-DataStructure$1_func__1_.coverage" NAME="1.func (1) Coverage Results" MODIFIED="1558352734377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.Algorithm/3.经典算法/3.台阶问题(变态跳)" />
     <SUITE FILE_PATH="coverage/Python-DataStructure$1_func.coverage" NAME="1.func Coverage Results" MODIFIED="1558341102950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.Algorithm/3.经典算法/2.台阶问题" />
     <SUITE FILE_PATH="coverage/Python-DataStructure$1_Sequential_Search.coverage" NAME="1.Sequential-Search Coverage Results" MODIFIED="1557813244818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.Algorithm/2.查找/1.顺序查找" />
     <SUITE FILE_PATH="coverage/DataStructure $text.coverage" NAME="text Coverage Results" MODIFIED="1557294507933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python-DataStructure$3_.coverage" NAME="3.递归 Coverage Results" MODIFIED="1558337605133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.Algorithm/3.经典算法/1.Fibonacci" />
+    <SUITE FILE_PATH="coverage/Python-DataStructure$3_.coverage" NAME="3.无序列表时间空间度复杂度限制 Coverage Results" MODIFIED="1558592222349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -34,11 +34,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2.有序列表空间复杂度限制.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="3.无序列表空间度复杂度限制.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素/3.无序列表空间度复杂度限制.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.有序列表空间复杂度限制.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素/2.有序列表空间复杂度限制.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-110">
-              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="133">
+              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.remove-duplicates-from-sorted-array.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2.Leetcode/26. 删除排序数组中的重复项/1.remove-duplicates-from-sorted-array.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,7 +94,6 @@
         <option value="$PROJECT_DIR$/2.Leetcode/13. 罗马数字转整数/1.roman-to-integer.py" />
         <option value="$PROJECT_DIR$/2.Leetcode/14. 最长公共前缀/1.longest-common-prefix.py" />
         <option value="$PROJECT_DIR$/2.Leetcode/9. 回文数/1.palindrome-number.py" />
-        <option value="$PROJECT_DIR$/2.Leetcode/26. 删除排序数组中的重复项/1.remove-duplicates-from-sorted-array.py" />
         <option value="$PROJECT_DIR$/2.Leetcode/27. 移除元素/1.remove-element.py" />
         <option value="$PROJECT_DIR$/2.Leetcode/28. 实现strStr()/1.implement-strstr.py" />
         <option value="$PROJECT_DIR$/1.Algorithm/2.查找/1.顺序查找/1.Sequential-Search.py" />
@@ -90,7 +109,10 @@
         <option value="$PROJECT_DIR$/2.Leetcode/21. 合并两个有序链表/1.merge-two-sorted-lists.py" />
         <option value="$PROJECT_DIR$/text.py" />
         <option value="$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素/1.没有时空复杂度要求.py" />
+        <option value="$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素/3.无序列表时间空间度复杂度限制.py" />
+        <option value="$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素/3.无序列表空间度复杂度限制.py" />
         <option value="$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素/2.有序列表空间复杂度限制.py" />
+        <option value="$PROJECT_DIR$/2.Leetcode/26. 删除排序数组中的重复项/1.remove-duplicates-from-sorted-array.py" />
       </list>
     </option>
   </component>
@@ -158,69 +180,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1.Algorithm" />
+              <option name="myItemId" value="2.Leetcode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="3.经典算法" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="4.删除重复元素" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-DataStructure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-DataStructure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1.Algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3.经典算法" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3.台阶问题(变态跳)" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-DataStructure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-DataStructure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1.Algorithm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3.经典算法" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-DataStructure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-DataStructure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1.Algorithm" />
+              <option name="myItemId" value="26. 删除排序数组中的重复项" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -263,24 +227,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.2.有序列表空间复杂度限制">
-    <configuration default="false" name="2.生成器" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.Algorithm/3.经典算法/1.Fibonacci" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DataStructure " />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.Algorithm/3.经典算法/1.Fibonacci/2.生成器.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="1.func (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -349,6 +295,24 @@
       <module name="DataStructure " />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素/2.有序列表空间复杂度限制.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="3.无序列表时间空间度复杂度限制" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DataStructure " />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素/3.无序列表空间度复杂度限制.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -568,19 +532,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.2.生成器" />
-      <item index="1" class="java.lang.String" itemvalue="Python.1.func (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.text" />
-      <item index="3" class="java.lang.String" itemvalue="Python.1.没有时空复杂度要求" />
-      <item index="4" class="java.lang.String" itemvalue="Python.2.有序列表空间复杂度限制" />
+      <item index="0" class="java.lang.String" itemvalue="Python.1.func (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.text" />
+      <item index="2" class="java.lang.String" itemvalue="Python.1.没有时空复杂度要求" />
+      <item index="3" class="java.lang.String" itemvalue="Python.2.有序列表空间复杂度限制" />
+      <item index="4" class="java.lang.String" itemvalue="Python.3.无序列表时间空间度复杂度限制" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.2.有序列表空间复杂度限制" />
-        <item index="1" class="java.lang.String" itemvalue="Python.1.没有时空复杂度要求" />
-        <item index="2" class="java.lang.String" itemvalue="Python.text" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1.func (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.2.生成器" />
+        <item index="1" class="java.lang.String" itemvalue="Python.3.无序列表时间空间度复杂度限制" />
+        <item index="2" class="java.lang.String" itemvalue="Python.1.没有时空复杂度要求" />
+        <item index="3" class="java.lang.String" itemvalue="Python.text" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1.func (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -767,13 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.Leetcode/26. 删除排序数组中的重复项/1.remove-duplicates-from-sorted-array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.Leetcode/27. 移除元素/1.remove-element.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -920,10 +877,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素/3.无序列表空间度复杂度限制.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1.Algorithm/3.经典算法/4.删除重复元素/2.有序列表空间复杂度限制.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="133">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Leetcode/26. 删除排序数组中的重复项/1.remove-duplicates-from-sorted-array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
