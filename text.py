@@ -1,2 +1,6 @@
-a = [1,2,3,4,5]
-print(a[1:])
+haystack = "hello"
+needle = "ll"
+
+if needle in haystack:
+    print("000")
+    print(len(haystack.split(needle)[0]))
