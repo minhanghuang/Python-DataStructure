@@ -1,6 +1,7 @@
-haystack = "hello"
-needle = "ll"
+a = "11"
+b = "1100"
 
-if needle in haystack:
-    print("000")
-    print(len(haystack.split(needle)[0]))
+# print(bin(int(a,2)+int(b,2)))
+
+print(int(a,2))
+
