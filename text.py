@@ -1,7 +1,16 @@
-a = "11"
-b = "1100"
+from functools import lru_cache
 
-# print(bin(int(a,2)+int(b,2)))
 
-print(int(a,2))
+@lru_cache(None)
+def fab(n):
 
+    print(n)
+
+    return None
+
+
+fab(10)
+fab(10)
+fab(10)
+fab(9)
+fab(9)
