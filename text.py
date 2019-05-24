@@ -1,16 +1,4 @@
-from functools import lru_cache
+a = [1,2,3]
+b = [1,4,5,6]
 
-
-@lru_cache(None)
-def fab(n):
-
-    print(n)
-
-    return None
-
-
-fab(10)
-fab(10)
-fab(10)
-fab(9)
-fab(9)
+print(a+b)
