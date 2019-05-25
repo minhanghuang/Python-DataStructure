@@ -1,11 +1,8 @@
-a = [1,2,3]
-b = [1,4,5,6]
+a = []
+b = []
 
-b.insert(0,0)
-
-print(b)
-
-b.pop()
-
-print(b)
+if ((not a) and b) or (a and (not b)):
+    print("假")
+else:
+    print("真")
 
